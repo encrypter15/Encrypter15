@@ -1,4 +1,4 @@
-# Rick Hayes (encrypter15)
+# Encrypter15 (encrypter15)
 ### Senior Information Technology and Security Expert | Software Developer
 
 - **Location:** United States
