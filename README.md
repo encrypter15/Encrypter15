@@ -9,7 +9,7 @@
 ---
 
 ## Professional Summary
-Rick Hayes is a seasoned IT professional with over 32 years of experience in Information Technology, Information Security (InfoSec), and software development. With deep expertise in multiple programming languages and a proven track record of delivering robust, secure, and scalable solutions, Rick has established himself as a versatile and innovative technologist. His career spans designing secure systems, developing high-performance applications, and contributing to open-source projects, reflecting his commitment to advancing technology and security practices.
+Encrypter15 is a seasoned IT professional with over 32 years of experience in Information Technology, Information Security (InfoSec), and software development. With deep expertise in multiple programming languages and a proven track record of delivering robust, secure, and scalable solutions, Encrypter15 has established himself as a versatile and innovative technologist. His career spans designing secure systems, developing high-performance applications, and contributing to open-source projects, reflecting his commitment to advancing technology and security practices.
 
 ---
 
